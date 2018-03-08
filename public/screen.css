@@ -7,3 +7,17 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+
+.bubble p {
+  position: relative;
+  display:inline-block;
+  max-width:250px;
+  min-height:1.5em;
+  padding: 20px;
+  background: #FFFFFF;
+  border: #7F7F7F solid 4px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
