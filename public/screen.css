@@ -27,7 +27,7 @@ body {
 content: "";
 position: absolute;
 bottom: -24px;
-right: 60%;
+left: 60%;
 border-style: solid;
 border-width: 24px 24px 0;
 border-color: #FFFFFF transparent;
@@ -41,7 +41,7 @@ z-index: 1;
 content: "";
 position: absolute;
 bottom: -19.5px;
-right: calc(60% - 3px) ;
+left: calc(60% - 3px) ;
 border-style: solid;
 border-width: 20px 20px 0;
 border-color: #7F7F7F transparent;
