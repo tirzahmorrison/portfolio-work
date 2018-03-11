@@ -17,8 +17,10 @@ body {
 .intro{
   display: flex;
   justify-content: space-around;
-  
-  padding: 70px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding: 120px 90px 50px 90px;
+ 
 }
   
 
