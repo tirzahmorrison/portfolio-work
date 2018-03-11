@@ -16,12 +16,16 @@ body {
 
 .intro{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   
+  padding: 70px;
 }
+  
+
 
 .dinolady{
-  border-radius: 3%;
+  border-radius: 3%;    
+  margin-top: 50px;
 }
 
 #talk-bubble {
