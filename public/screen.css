@@ -95,6 +95,8 @@ body {
 .articles article section{
   background-color: white;
   color: black;
+  height: 120px;
+  overflow: hidden;
  
 }
 
@@ -104,6 +106,12 @@ body {
 
 .articles article small{
   font-size: 12px;  
+  font-weight: 300;
+}
+
+.articles article p{
+
+  font-size: .8em;
   font-weight: 300;
 }
 .top-article {
