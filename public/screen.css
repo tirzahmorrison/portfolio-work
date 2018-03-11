@@ -19,3 +19,7 @@ body {
 .top-article {
   background-image: url("images/react.png");
 }
+
+.bottom-article{
+  background-image: url("images/code.png");
+}
