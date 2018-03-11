@@ -77,9 +77,8 @@ body {
 .portfolio {
   display: flex;  
   justify-content: space-between;
-  margin: 50px;
-  background-color: #000000dd;
-  padding: 
+  background-color: #000000aa;
+  padding: 20px 50px;
 
 }
 
