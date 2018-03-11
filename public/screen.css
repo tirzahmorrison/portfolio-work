@@ -48,7 +48,7 @@ body {
 
 .portfolio {
   display: flex;  
-  justify-content: space-around;
+  justify-content: space-between;
   margin: 50px;
 
 }
