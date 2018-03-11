@@ -19,6 +19,7 @@ body {
 
 .articles article {
   padding-top: 100px;
+  margin: 50px;
 }
 .top-article {
   background-image: url("images/react.png");
