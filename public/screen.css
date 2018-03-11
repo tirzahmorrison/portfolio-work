@@ -42,7 +42,7 @@ body {
   border-bottom: 13px solid transparent;
 }
 
-.talkbubble textarea {
+.talk-text {
   position: inherit;
   width: inherit;
   height: inherit;
