@@ -30,11 +30,14 @@ body {
 
 .talktext h1{
   font-size: 30px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 
 }
 
 .talktext p{
   font-size: 18px;
+  margin-top: 8px;
 }
 
 #talk-bubble {
