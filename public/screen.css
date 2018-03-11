@@ -67,6 +67,11 @@ body {
   background-image: url("images/code.png");
 }
 
+.footer{
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 600px) {
   body {
     width: 100%;
