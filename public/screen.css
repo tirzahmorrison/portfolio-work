@@ -10,9 +10,7 @@ body {
   color: white;
  }
 
-.make-it-rain{
-  border-radius: 3%;
-}
+
 
 .dinolady{
   border-radius: 3%;
@@ -44,6 +42,16 @@ body {
   background-image: url("images/space.jpg");
 }
 
+.make-it-rain{
+  border-radius: 3%;
+}
+
+.portfolio {
+  display: flex;  
+  justify-content: space-around;
+  margin: 50px;
+
+}
 
 
 .articles article section{
