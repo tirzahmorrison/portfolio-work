@@ -10,7 +10,14 @@ body {
   color: white;
  }
 
+ .masthead{
+  background-image: url("images/space.jpg");
+}
 
+.intro{
+  display: flex;
+  
+}
 
 .dinolady{
   border-radius: 3%;
@@ -38,9 +45,7 @@ body {
 	margin-bottom: -24px;
 }
 
-.masthead{
-  background-image: url("images/space.jpg");
-}
+
 
 .make-it-rain{
   border-radius: 3%;
