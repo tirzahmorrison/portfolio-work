@@ -83,14 +83,6 @@ body {
 
 }
 
-
-.articles article section{
-  background-color: white;
-  color: black;
- 
-}
-
-
 .articles article {
   padding-top: 100px;
   margin: 20px;
@@ -99,6 +91,17 @@ body {
 
   
 }
+
+.articles article section{
+  background-color: white;
+  color: black;
+ 
+}
+
+.articles article h3 {
+    font-size: 16px 
+}
+
 .top-article {
   background-image: url("images/react.png");
   background-position: 0 -190px;
