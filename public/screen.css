@@ -77,7 +77,7 @@ body {
 .portfolio {
   display: flex;  
   justify-content: space-between;
-  background-color: #000000aa;
+  background-color: #00000077;
   padding: 20px;
 
 }
@@ -93,7 +93,7 @@ body {
 .articles article {
   padding-top: 100px;
   margin: 20px;
-  
+
   
 }
 .top-article {
