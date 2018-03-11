@@ -69,7 +69,8 @@ body {
  
 .twitter-section{
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-content: center;
 }
 
 .dino-twitter-pics img{
