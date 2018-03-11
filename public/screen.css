@@ -104,7 +104,7 @@ body {
 
 .articles article small{
   font-size: 12px;  
-  font-family: 'Roboto thin';
+  font-weight: 300;
 }
 .top-article {
   background-image: url("images/react.png");
