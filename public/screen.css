@@ -77,6 +77,10 @@ body {
   overflow: hidden;
 }
 
+.dino-twitter-pics a{
+  text-decoration: none;
+}
+
 @media (max-width: 600px) {
   body {
     width: 100%;
