@@ -66,20 +66,26 @@ body {
 .bottom-article{
   background-image: url("images/code.png");
 }
-
-.footer{
+ 
+.twitter-section{
   display: flex;
   justify-content: center;
 }
 
 .dino-twitter-pics img{
   border-radius: 50%;
-  overflow: hidden;
 }
 
 .dino-twitter-pics a{
+  padding: 20px;
   text-decoration: none;
 }
+
+.footer{
+  display: flex;
+  justify-content: center;
+}
+
 
 @media (max-width: 600px) {
   body {
