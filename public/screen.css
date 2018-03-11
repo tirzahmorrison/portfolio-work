@@ -16,12 +16,13 @@ body {
  
 }
 
+
 .articles article {
   padding-top: 100px;
 }
-
 .top-article {
   background-image: url("images/react.png");
+  background-position: 0 -190px;
 }
 
 .bottom-article{
