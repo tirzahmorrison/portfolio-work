@@ -28,11 +28,17 @@ body {
   margin-top: 50px;
 }
 
+.talktext{
+  font-size: 30px;
+}
+
 #talk-bubble {
 	position: relative;
 	background: #d6d6d6;
   border-radius: .4em;
   color: black;
+  padding: 15px;
+  margin-left: 18px;
 }
 
 #talk-bubble:after {
