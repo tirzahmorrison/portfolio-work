@@ -18,13 +18,13 @@ body {
   border-radius: 3%;
 }
 
-.talk-bubble {
+#talk-bubble {
 	position: relative;
 	background: #d6d6d6;
 	border-radius: .4em;
 }
 
-.talk-bubble:after {
+#talk-bubble:after {
 	content: '';
 	position: absolute;
 	bottom: 0;
