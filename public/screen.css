@@ -21,7 +21,8 @@ body {
 #talk-bubble {
 	position: relative;
 	background: #d6d6d6;
-	border-radius: .4em;
+  border-radius: .4em;
+  color: black;
 }
 
 #talk-bubble:after {
