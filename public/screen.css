@@ -13,9 +13,12 @@ body {
 .articles article section{
   background-color: white;
   color: black;
-  margin-top: 100px;
+ 
 }
 
+.articles article {
+  padding-top: 100px;
+}
 
 .top-article {
   background-image: url("images/react.png");
