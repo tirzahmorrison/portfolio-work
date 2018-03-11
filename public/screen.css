@@ -72,6 +72,10 @@ body {
   border-radius: 3%;
 }
 
+
+section.portfolio{
+  background-color: #000000dd;
+}
 .portfolio {
   display: flex;  
   justify-content: space-between;
