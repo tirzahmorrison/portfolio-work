@@ -84,7 +84,7 @@ body {
 }
 
 .articles article {
-  padding-top: 100px;
+  padding-top: 45px;
   margin: 20px;
   border-radius: .3em;
   overflow: hidden;
@@ -108,7 +108,7 @@ body {
 }
 .top-article {
   background-image: url("images/react.png");
-  background-position: 0 -190px;
+  background-position: 0 -214px;
 }
 
 .bottom-article{
