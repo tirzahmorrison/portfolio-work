@@ -172,6 +172,10 @@ body {
   body {
     width: 100%;
   }
+
+  #talk-bubble:after{
+    left: 10%;
+  }
 }
 
 @media (min-width: 601px) {
