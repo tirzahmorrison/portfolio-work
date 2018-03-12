@@ -83,6 +83,10 @@ body {
 
 }
 
+.portfolio a img{
+  max-width: 100%;
+}
+
 .articles article {
   padding-top: 45px;
   margin: 20px;
