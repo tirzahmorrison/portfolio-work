@@ -173,13 +173,6 @@ body {
     width: 100%;
   }
 
-  #talk-bubble:after{
-    left: 10%;
-  }
-
-  .dinolady{
-    margin-top: 140px;
-  }
 
   #container{
     display: flex;
