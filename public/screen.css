@@ -197,7 +197,7 @@ body {
   }
 
   .footer{
-    flex-shrink: 1;
+    font-size: 6px;
   }
 }
 
