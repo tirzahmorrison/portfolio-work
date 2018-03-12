@@ -183,7 +183,7 @@ body {
 
   .portfolio img{
     flex-shrink: 1; 
-    flex-basis: 20%;
+    
 
   }
 }
