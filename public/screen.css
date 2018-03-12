@@ -128,6 +128,10 @@ body {
   top: 10px;
 }
  
+.button{
+  background-color: blue;
+  columns: white;
+}
 
 .button-wrapper{
   display: flex;
