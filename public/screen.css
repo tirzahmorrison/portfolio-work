@@ -112,7 +112,7 @@ body {
 .articles article p{
 
   font-size: .8em;
-  font-weight: 300;
+  
 }
 .top-article {
   background-image: url("images/react.png");
