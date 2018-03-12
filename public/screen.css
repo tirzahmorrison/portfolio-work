@@ -129,8 +129,8 @@ body {
 }
  
 .button{
-  background-color: blue;
-  columns: white;
+  background-color: rgb(101, 101, 230);
+  color: white;
 }
 
 .button-wrapper{
