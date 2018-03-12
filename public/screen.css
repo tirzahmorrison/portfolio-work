@@ -122,12 +122,14 @@ body {
 
 .bottom-article{
   background-image: url("images/code.png");
+  position: relative;
+  top: 10px;
 }
  
 
 .button-wrapper{
   display: flex;
-  align-items: flex-end;
+  flex-direction: row-reverse;
 }
 .twitter-section{
   display: flex;
