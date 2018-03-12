@@ -100,7 +100,6 @@ body {
   
   background-color: white;
   color: black;
-  height: 120px;
   padding: 10px 20px;
   border-bottom-left-radius: .3em;  
   border-bottom-right-radius: .3em;
@@ -191,8 +190,10 @@ body {
     flex-direction: column;
     }
 
-    .articles article section.content{
-      height: none;
+    .button{
+      position: relative;
+      top: 20px;
+      
       
     }
 
@@ -208,4 +209,8 @@ body {
     width: 900px;
     margin: auto; 
   }
+
+.articles article setion.content{
+  height: 120px;
+}
 }
