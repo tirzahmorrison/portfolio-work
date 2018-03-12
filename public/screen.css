@@ -176,6 +176,7 @@ body {
   body {
     width: 100%;
   }
+ 
 
 
   #talk-bubble:after{
@@ -188,6 +189,15 @@ body {
   #container{
     display: flex;
     flex-direction: column;
+    }
+
+    .articles article section.content{
+      height: none;
+      
+    }
+
+    .button{
+      padding: 20px;
     }
 
     
