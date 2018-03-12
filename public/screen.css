@@ -195,6 +195,10 @@ body {
     display: flex;
     flex-direction: column;
   }
+
+  .footer{
+    flex-basis: 80%;
+  }
 }
 
 @media (min-width: 601px) {
