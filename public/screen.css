@@ -98,6 +98,8 @@ body {
   color: black;
   height: 120px;
   padding: 0 20px;
+  border-bottom-left-radius: .3em;  
+  border-bottom-right-radius: .3em;
  
 }
 
