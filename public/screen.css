@@ -197,7 +197,7 @@ body {
   }
 
   .footer{
-    flex-basis: 80%;
+    flex-shrink: 1;
   }
 }
 
