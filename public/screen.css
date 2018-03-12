@@ -181,7 +181,7 @@ body {
     margin-top: 140px;
   }
 
-  .portfolio img{
+  #container{
     flex-shrink: 1; 
     
 
