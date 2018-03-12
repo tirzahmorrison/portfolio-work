@@ -132,7 +132,8 @@ body {
   background-color: rgb(101, 101, 230);
   color: white;
   border-radius: .3em;
-  font-style: 'roboto';
+  height: 30px;
+  border: 0;
 }
 
 .button-wrapper{
