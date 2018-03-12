@@ -183,12 +183,10 @@ body {
 
   #container{
     display: flex;
-    
+    flex-shrink: 1; 
     }
 
-    #container>*{
-      flex-shrink: 1;
-    }
+    
 }
 
 @media (min-width: 601px) {
