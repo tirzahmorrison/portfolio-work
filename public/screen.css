@@ -87,7 +87,7 @@ body {
   padding-top: 45px;
   margin: 20px;
   border-radius: .3em;
-  overflow: hidden;
+  
 
   
 }
@@ -96,7 +96,7 @@ body {
   background-color: white;
   color: black;
   height: 120px;
-  overflow: hidden;
+  
   padding: 0 20px;
  
 }
@@ -124,6 +124,11 @@ body {
   background-image: url("images/code.png");
 }
  
+
+.button-wrapper{
+  display: flex;
+  align-items: flex-end;
+}
 .twitter-section{
   display: flex;
   flex-direction: column;
